@@ -9,3 +9,19 @@ Happy é uma idea desenvolvida pela rockeseat na qual oferece a oportunidade de 
 <h4 align="center"> 
 	🚧 Em construção... 🚧
 </h4>
+
+# :clipboard: Tecnologias Utilizadas
+* [Yarn](https://yarnpkg.com/)
+* [NodeJs](https://nodejs.org/en/)
+* [ReactJs](https://reactjs.org/)
+* [React-Native](https://reactnative.dev/)
+* [React-Navigation](https://reactnavigation.org/)
+* [React-Leaflet](https://react-leaflet.js.org/)
+* [MapBox](https://www.mapbox.com/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Expo](https://expo.io/)
+* [Express](https://expressjs.com/)
+* [Multer](https://www.npmjs.com/package/multer)
+* [Sqlite3](https://www.sqlite.org/index.html)
+* [TypeORM](https://typeorm.io/#/)
+* [Yup](https://github.com/jquense/yup)
