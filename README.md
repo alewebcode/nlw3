@@ -1,4 +1,3 @@
-<b>NLW3 - Happy</b>
 <p align="center">
   <img src="https://raw.githubusercontent.com/alewebcode/nlw3/master/icon.svg" />
 </p>
