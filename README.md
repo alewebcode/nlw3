@@ -6,9 +6,6 @@
 Happy é uma idea desenvolvida pela rockeseat na qual oferece a oportunidade de cadastrar e encontrar orfanatos usando maps como recurso
 </p>
 
-<h4 align="center"> 
-	🚧 Em construção... 🚧
-</h4>
 
 # :computer: Tecnologias Utilizadas
 * [Yarn](https://yarnpkg.com/)
@@ -25,3 +22,7 @@ Happy é uma idea desenvolvida pela rockeseat na qual oferece a oportunidade de 
 * [Sqlite3](https://www.sqlite.org/index.html)
 * [TypeORM](https://typeorm.io/#/)
 * [Yup](https://github.com/jquense/yup)
+
+<h4 align="center"> 
+	🚧 Em construção... 🚧
+</h4>
