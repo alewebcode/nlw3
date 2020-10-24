@@ -10,7 +10,7 @@ Happy é uma idea desenvolvida pela rockeseat na qual oferece a oportunidade de 
 	🚧 Em construção... 🚧
 </h4>
 
-# :clipboard: Tecnologias Utilizadas
+# :computer: Tecnologias Utilizadas
 * [Yarn](https://yarnpkg.com/)
 * [NodeJs](https://nodejs.org/en/)
 * [ReactJs](https://reactjs.org/)
